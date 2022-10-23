@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button/>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>DocuDemo</name>
+        <required_roles>x_328106_docudemo.approver</required_roles>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-23 13:57:31</sys_created_on>
+        <sys_id>96a0de1c13b6d1104127d5559795336d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DocuDemo</sys_name>
+        <sys_package display_value="DocuDemo" source="x_328106_docudemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DocuDemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_96a0de1c13b6d1104127d5559795336d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-23 13:57:31</sys_updated_on>
+        <title>DocuDemo</title>
+    </sys_sg_applet_launcher>
+</record_update>

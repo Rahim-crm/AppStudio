@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="approver" label="Approver" language="en" table="var__m_sys_hub_action_input_dea0de1ce4b6d110ffbd8b08655af686">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>approver</element>
+            <help/>
+            <hint/>
+            <label>Approver</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_dea0de1ce4b6d110ffbd8b08655af686</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-23 13:57:43</sys_created_on>
+            <sys_id>52a0de1cb2b6d11070cf7fdce410fa88</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Approver</sys_name>
+            <sys_package display_value="DocuDemo" source="x_328106_docudemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DocuDemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_input_9e44f857c7202010697d36d827c260d1_approver_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-23 13:57:43</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

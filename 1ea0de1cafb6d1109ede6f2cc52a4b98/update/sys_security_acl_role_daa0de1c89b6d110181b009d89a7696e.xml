@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-23 13:57:56</sys_created_on>
+        <sys_id>daa0de1c89b6d110181b009d89a7696e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_328106_docudemo_document_approval_category.x_328106_docudemo.submitter</sys_name>
+        <sys_package display_value="DocuDemo" source="x_328106_docudemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DocuDemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_scope>
+        <sys_security_acl display_value="x_328106_docudemo_document_approval_category">5aa0de1c04b6d110b71fa54e09be536f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_daa0de1c89b6d110181b009d89a7696e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-23 13:57:56</sys_updated_on>
+        <sys_user_role display_value="x_328106_docudemo.submitter" name="x_328106_docudemo.submitter">dea0de1c41b6d110e9c0a55d7df40197</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

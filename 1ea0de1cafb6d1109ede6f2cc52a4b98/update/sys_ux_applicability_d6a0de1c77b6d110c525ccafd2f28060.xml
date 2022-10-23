@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_328106_docudemo.Document Submitter</api_name>
+        <description>Role for document submitters</description>
+        <name>Document Submitter</name>
+        <roles name="x_328106_docudemo.submitter">dea0de1c41b6d110e9c0a55d7df40197</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-23 13:58:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d6a0de1c77b6d110c525ccafd2f28060</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Document Submitter</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="DocuDemo" source="x_328106_docudemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DocuDemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_scope>
+        <sys_update_name>sys_ux_applicability_d6a0de1c77b6d110c525ccafd2f28060</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-23 13:58:04</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>

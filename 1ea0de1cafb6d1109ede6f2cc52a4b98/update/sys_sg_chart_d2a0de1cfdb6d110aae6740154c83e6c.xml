@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart">
+    <sys_sg_chart action="INSERT_OR_UPDATE">
+        <jump_to_screen display_value="Navigate to needs attention">1aa0de1c45b6d11090f256024948d16c</jump_to_screen>
+        <name>Needs Attention</name>
+        <report display_value="Needs Attention">d6a0de1cf4b6d110a9161f60099dc772</report>
+        <sys_class_name>sys_sg_chart</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-23 13:58:06</sys_created_on>
+        <sys_id>d2a0de1cfdb6d110aae6740154c83e6c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needs Attention</sys_name>
+        <sys_package display_value="DocuDemo" source="x_328106_docudemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DocuDemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_scope>
+        <sys_update_name>sys_sg_chart_d2a0de1cfdb6d110aae6740154c83e6c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-23 13:58:06</sys_updated_on>
+        <title>Needs Attention</title>
+        <type>report</type>
+        <widget/>
+    </sys_sg_chart>
+</record_update>

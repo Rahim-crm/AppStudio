@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Document Approver">daa0de1cc5b6d110c76c836a5e42bb60</applicability>
+        <order>0</order>
+        <screen display_value="Home default">d2a0de1c2eb6d1108ba703729b9bf05f</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-23 13:57:53</sys_created_on>
+        <sys_id>9ea0de1c9bb6d110ca8d2c7211d1775e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DocuDemo" source="x_328106_docudemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DocuDemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_9ea0de1c9bb6d110ca8d2c7211d1775e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-23 13:57:53</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

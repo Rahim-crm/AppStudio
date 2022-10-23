@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_dynamic_route_config">
+    <sys_ux_dynamic_route_config action="INSERT_OR_UPDATE">
+        <description>Document Approval Workspace Route Config</description>
+        <name>Document Approval Workspace Route Config</name>
+        <sys_class_name>sys_ux_dynamic_route_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-23 13:57:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>12a0de1c0fb6d110dfcd6c76cd3c7b3d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Document Approval Workspace Route Config</sys_name>
+        <sys_package display_value="DocuDemo" source="x_328106_docudemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DocuDemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_scope>
+        <sys_update_name>sys_ux_dynamic_route_config_12a0de1c0fb6d110dfcd6c76cd3c7b3d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-23 13:57:47</sys_updated_on>
+    </sys_ux_dynamic_route_config>
+</record_update>

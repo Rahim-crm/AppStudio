@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>false</click_in_mode>
+        <context_config_id display_value="Document Approvals Search">9aa0de1c36b6d1103958e05e5dbe3d94</context_config_id>
+        <limit>5</limit>
+        <order>400</order>
+        <section_header>Suggested Results</section_header>
+        <suggestion_type>Suggested Result Reader Group for Document Approvals Search</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-23 13:57:35</sys_created_on>
+        <sys_id>96a0de1c56b6d11071fd7b94c7900a93</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Suggested Result Reader Group for Document Approvals Search</sys_name>
+        <sys_package display_value="DocuDemo" source="x_328106_docudemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DocuDemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_96a0de1c56b6d11071fd7b94c7900a93</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-23 13:57:35</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>

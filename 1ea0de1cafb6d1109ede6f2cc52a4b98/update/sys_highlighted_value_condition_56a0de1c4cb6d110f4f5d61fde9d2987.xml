@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_highlighted_value_condition">
+    <sys_highlighted_value_condition action="INSERT_OR_UPDATE">
+        <color/>
+        <conditions table="x_328106_docudemo_document_approver">state=returned^EQ<item display_value="Returned" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="returned"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <highlighted_value display_value="state">9aa0de1c59b6d1102a31d665730f1d87</highlighted_value>
+        <icon/>
+        <order>0</order>
+        <show_icon>true</show_icon>
+        <status>high</status>
+        <sys_class_name>sys_highlighted_value_condition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-23 13:57:32</sys_created_on>
+        <sys_id>56a0de1c4cb6d110f4f5d61fde9d2987</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DocuDemo" source="x_328106_docudemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DocuDemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_scope>
+        <sys_update_name>sys_highlighted_value_condition_56a0de1c4cb6d110f4f5d61fde9d2987</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-23 13:57:32</sys_updated_on>
+        <value_override/>
+        <variant/>
+    </sys_highlighted_value_condition>
+</record_update>

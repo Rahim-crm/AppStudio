@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="DocuDemo">1aa0de1c0fb6d1105a50a60054e06d90</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Document Approval Portal</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>15</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>/x/328106/x_328106_docudemo-doc-approval/portal</query>
+        <report/>
+        <roles>x_328106_docudemo.submitter</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-23 13:57:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>16a0de1c61b6d1100ae21425cca8bd90</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Document Approval Portal</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="DocuDemo" source="x_328106_docudemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DocuDemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_scope>
+        <sys_update_name>sys_app_module_16a0de1c61b6d1100ae21425cca8bd90</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-23 13:57:56</sys_updated_on>
+        <timeline_page/>
+        <title>Document Approval Portal</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name>_blank</window_name>
+    </sys_app_module>
+</record_update>

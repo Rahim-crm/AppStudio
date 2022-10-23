@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="DocuDemo">96a0de1c13b6d1104127d5559795336d</applet_launcher>
+        <icon display_value="Document Approvals">d2a0de1cf3b6d1100f3f3eaa15389f6d</icon>
+        <label>Dcoument Approval</label>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-23 13:57:56</sys_created_on>
+        <sys_id>52a0de1c0ab6d110fe495a1858b7406d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dcoument Approval</sys_name>
+        <sys_package display_value="DocuDemo" source="x_328106_docudemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DocuDemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_52a0de1c0ab6d110fe495a1858b7406d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-23 13:57:56</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Return document">daa0de1c14b6d1105778262fb680dd6d</button>
+        <color_theme>secondary</color_theme>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Return</label>
+        <location>footer</location>
+        <name>Return</name>
+        <order>20</order>
+        <parent>96a0de1c10b6d11045587f88d96a356c</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-23 13:58:06</sys_created_on>
+        <sys_id>5aa0de1c0ab6d110c08f5a4bcf4b8c6c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Return</sys_name>
+        <sys_package display_value="DocuDemo" source="x_328106_docudemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DocuDemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_scope>
+        <sys_update_name>sys_sg_button_instance_5aa0de1c0ab6d110c08f5a4bcf4b8c6c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-23 13:58:06</sys_updated_on>
+        <table>x_328106_docudemo_document_approver</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=5aa0de1c0ab6d110c08f5a4bcf4b8c6c"/>
+</record_update>

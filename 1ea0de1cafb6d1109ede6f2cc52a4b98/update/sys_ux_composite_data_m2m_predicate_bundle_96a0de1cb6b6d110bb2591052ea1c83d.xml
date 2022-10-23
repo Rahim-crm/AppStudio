@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="doc-approval-get-all">56a0de1ce8b6d110135d9d47f5fb103e</dataset>
+        <order>1</order>
+        <predicate_bundle display_value="document-approval-view-config-bundle">1ea0de1ccdb6d110e9d04c68e4bab93d</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-23 13:57:31</sys_created_on>
+        <sys_id>96a0de1cb6b6d110bb2591052ea1c83d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DocuDemo" source="x_328106_docudemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DocuDemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_96a0de1cb6b6d110bb2591052ea1c83d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-23 13:57:31</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

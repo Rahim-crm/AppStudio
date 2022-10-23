@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Landing page">1aa0de1c67b6d110f03f8a1bc3980b61</macroponent>
+        <name>Go to Doc Submit page</name>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+* @param {params} params
+* @param {api} params.api
+* @param {any} params.event
+* @param {any} params.imports
+* @param {ApiHelpers} params.helpers
+*/
+function handler({api, event, helpers, imports}) {
+    api.emit('NAV_ITEM_SELECTED', { route: 'doc_submit', fields:{ sysId: '-1'}, multiInstField: 'sysId' });
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-23 13:57:45</sys_created_on>
+        <sys_id>d6a0de1cbbb6d11035a43a4073cf4d59</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Go to Doc Submit page</sys_name>
+        <sys_package display_value="DocuDemo" source="x_328106_docudemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DocuDemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_scope>
+        <sys_update_name>sys_ux_client_script_d6a0de1cbbb6d11035a43a4073cf4d59</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-23 13:57:45</sys_updated_on>
+        <type>default</type>
+    </sys_ux_client_script>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_m2m_workspace_header_ux_header_config">
+    <sys_ux_m2m_workspace_header_ux_header_config action="INSERT_OR_UPDATE">
+        <header_config display_value="Document Approval Workspace">56a0de1cccb6d110a54c9cc938ad3a3b</header_config>
+        <sys_class_name>sys_ux_m2m_workspace_header_ux_header_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-23 13:57:28</sys_created_on>
+        <sys_id>5aa0de1cb5b6d11063f4e50cec30d83a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DocuDemo" source="x_328106_docudemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DocuDemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_scope>
+        <sys_update_name>sys_ux_m2m_workspace_header_ux_header_config_5aa0de1cb5b6d11063f4e50cec30d83a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-23 13:57:28</sys_updated_on>
+        <workspace_form_header display_value="sys_user">92a0de1ce8b6d110767ac9abaf120190</workspace_form_header>
+    </sys_ux_m2m_workspace_header_ux_header_config>
+</record_update>

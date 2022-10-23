@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Return document">daa0de1c14b6d1105778262fb680dd6d</button>
+        <item_parameter display_value="comments">5aa0de1ce7b6d11081fb6fef343fae6d</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-23 13:57:39</sys_created_on>
+        <sys_id>9aa0de1c60b6d1105a236464f95bd46d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5aa0de1ce7b6d11081fb6fef343fae6d</sys_name>
+        <sys_package display_value="DocuDemo" source="x_328106_docudemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DocuDemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_9aa0de1c60b6d1105a236464f95bd46d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-23 13:57:39</sys_updated_on>
+        <ui_parameter display_value="Reason for returning">56a0de1c3bb6d11054471777bd591a6e</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

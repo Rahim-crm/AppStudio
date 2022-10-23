@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_328106_docudemo.submitter" name="x_328106_docudemo.submitter">dea0de1c41b6d110e9c0a55d7df40197</contains>
+        <role display_value="x_328106_docudemo.approver" name="x_328106_docudemo.approver">52a0de1c36b6d1105777435b40560498</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-23 13:57:38</sys_created_on>
+        <sys_id>dea0de1c57b6d110fcbcd4b063568d61</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DocuDemo" source="x_328106_docudemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DocuDemo">1ea0de1cafb6d1109ede6f2cc52a4b98</sys_scope>
+        <sys_update_name>sys_user_role_contains_dea0de1c57b6d110fcbcd4b063568d61</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-23 13:57:38</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
